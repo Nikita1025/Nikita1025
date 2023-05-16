@@ -27,7 +27,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on Codewars and read tech articles.
 
-- :mailbox: Know about my experiences [CV](https://app.luminpdf.com/viewer/63e7a7d2b9274796570bbc62)
+- :mailbox: My [portfolio](https://nikita1025.github.io/portfolio/)
 
 ---
 
