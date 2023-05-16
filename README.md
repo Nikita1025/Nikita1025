@@ -25,8 +25,6 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: I am always improving my skills in this direction and expanding them with new technologies.
 
-- :zap: In my free time, I solve problems on Codewars and read tech articles.
-
 - :mailbox: My [portfolio](https://nikita1025.github.io/portfolio/)
 
 ---
