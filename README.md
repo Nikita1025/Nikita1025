@@ -25,8 +25,6 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: I am always improving my skills in this direction and expanding them with new technologies.
 
-- :mailbox: My [portfolio](https://nikita1025.github.io/portfolio/)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
