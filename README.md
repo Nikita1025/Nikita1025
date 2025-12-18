@@ -59,9 +59,8 @@ I build scalable and performant web & mobile applications, from architecture to 
 
 ## 📫 Contact Me
 
-- GitHub: **@your-username**
-- Email: your@email.com
-- LinkedIn: linkedin.com/in/your-profile
+- Email: nikita.loika25@gmail.com
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/nikita-loika/)
 
 ---
 
