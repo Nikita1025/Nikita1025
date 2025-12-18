@@ -1,19 +1,68 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-   <a href="https://www.linkedin.com/in/nikita-loika-500aa2253/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/nikita_loika">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-	</a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+# 👋 Hi, I'm Nikita
+
+🚀 **Full Stack Developer** specializing in **NestJS**, **React**, and **React Native**
+
+I build scalable and performant web & mobile applications, from architecture to deployment. Passionate about clean code, optimized apps, and modern tech stacks.
+
+---
+
+## 🧠 About Me
+
+- 💻 Full Stack developer (Backend-first mindset)
+- ⚡ Experienced in **React / Next.js / React Native** and **NestJS / Express**
+- 🧩 Skilled in building **scalable, optimized, and maintainable applications**
+- 🚀 Interested in **startups, SaaS, and B2C products**
+- 🛠 Working solo or in small teams to bring products to production
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- **React.js / Next.js / React Native**
+- JavaScript / TypeScript
+- Redux Toolkit / React-Query
+- Application optimization & performance
+- Webpack / Vite
+
+### Backend
+- **Node.js / NestJS / Express.js**
+- REST / GraphQL
+- PostgreSQL / SQL
+- Application architecture & scalable design
+- Docker
+
+### DevOps & Tools
+- Docker & Docker Compose
+- Git / GitHub
+- CI/CD
+- Linux / Nginx
+
+---
+
+## 🚀 What I Do
+
+- Design and develop **full-stack applications**
+- Optimize **frontend & backend performance**
+- Build **modular and scalable architecture**
+- Implement **state management, caching, and APIs**
+- Dockerize apps & deploy to production
+
+---
+
+## 📌 Featured Projects
+
+> 🚧 Public projects coming soon  
+> Currently working on real SaaS & B2C apps
+
+---
+
+## 📫 Contact Me
+
+- GitHub: **@your-username**
+- Email: your@email.com
+- LinkedIn: linkedin.com/in/your-profile
+
+---
+
+⭐️ *Open to collaboration and exciting projects*
